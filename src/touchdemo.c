@@ -1,3 +1,5 @@
+/*gsegsrthsrtzsmrzus*/
+
 /**************************************************************************//**
  * @file
  * @brief Cap sense touch demo for EFM32GG_STK3700
